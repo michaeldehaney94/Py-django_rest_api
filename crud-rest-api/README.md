@@ -12,13 +12,13 @@ Add path in the original 'url.py' file in the project folder to link the app.url
 Create superuser to access database in django admin <br/>
 <br/>
 Create User (POST HTTP method)<br/>
-<img src="/assets/createuser.jpg" /><br/>
+<img src="/crudapi/assets/createuser.jpg" /><br/>
 <br/>
 Get User (Get HTTP method)<br/>
-<img src="/assets/getuser.jpg" /><br/>
+<img src="/crudapi/assets/getuser.jpg" /><br/>
 <br/>
 Get User Details (Get HTTP method)<br/>
-<img src="/assets/userdetails.jpg" /><br/>
+<img src="/crudapi/assets/userdetails.jpg" /><br/>
 <br/>
 Click here:
 <a href="https://www.youtube.com/watch?v=NoLF7Dlu5mc" target="_blank">Watch Python Django REST API tutorial in 30mins</a>
